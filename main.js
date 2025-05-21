@@ -1,3 +1,4 @@
+require('./keep_alive'); // Keep-alive serverni ishga tushirish
 const fs = require('fs')
 const crafter = require('./crafter');
 //console.log(process.argv);
